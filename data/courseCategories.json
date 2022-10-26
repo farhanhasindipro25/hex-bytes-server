@@ -1,0 +1,51 @@
+[
+    {
+      "_id": "01",
+      "category": "Programming Languages",
+      "courses": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "C#",
+        "GoLang",
+        "Solidity"
+      ]
+    },
+    {
+      "_id": "02",
+      "category": "Computer Science",
+      "courses": [
+        "Programming Fundamentals",
+        "Object Oriented Programming",
+        "Data Structures",
+        "Discrete Mathematics and Problem Solving",
+        "Algorithms",
+        "Database Systems"
+      ]
+    },
+    {
+      "_id": "03",
+      "category": "Artificial Intelligence",
+      "courses": [
+        "Machine Learning Fundamentals",
+        "Natural Language Processing",
+        "Data Science",
+        "Deep Learning",
+        "Computer Vision",
+        "Blockchain Systems"
+      ]
+    },
+    {
+      "_id": "04",
+      "category": "Web Technology",
+      "courses": [
+        "UI/UX Essentials",
+        "Responsive Web Development",
+        "Javascript Applications on the Web",
+        "Mastering ReactJS",
+        "Mastering NodeJS",
+        "ThreeJS",
+        "Web Development with Django"
+      ]
+    }
+  ]
