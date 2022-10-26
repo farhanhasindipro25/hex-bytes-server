@@ -26,6 +26,15 @@ app.get("/category/:id", (req, res) => {
   res.send(courseFromCategory);
 });
 
+// Making the API for Course Details
+app.get("/course/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedCourse = courseDetails.find(
+    (courseDetail) => courseDetail.details.course_id === id
+  );
+  res.send(selectedCourse);
+});
+
 app.listen(port, () => {
   console.log("HexBytes Server running on port:", port);
 });
