@@ -18,12 +18,8 @@ app.get("/course-categories", (req, res) => {
 });
 
 // Making the API for Courses per course categories
-app.get("/category/:id", (req, res) => {
-  const id = req.params.id;
-  const courseFromCategory = courseDetails.filter(
-    (course) => course.category_id === id
-  );
-  res.send(courseFromCategory);
+app.get("/course", (req, res) => {
+  res.send(courseDetails);
 });
 
 // Making the API for Course Details
