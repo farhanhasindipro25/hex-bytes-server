@@ -1,6 +1,6 @@
 [
     {
-      "_id": "01",
+      "category_id": "01",
       "category": "Programming Languages",
       "courses": [
         "Java",
@@ -12,7 +12,7 @@
       ]
     },
     {
-      "_id": "02",
+      "category_id": "02",
       "category": "Computer Science",
       "courses": [
         "Programming Fundamentals",
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "_id": "03",
+      "category_id": "03",
       "category": "Artificial Intelligence",
       "courses": [
         "Machine Learning Fundamentals",
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "_id": "04",
+      "category_id": "04",
       "category": "Web Technology",
       "courses": [
         "UI/UX Essentials",
