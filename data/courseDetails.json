@@ -1,8 +1,8 @@
 [
     {
-      "course_id": "635948fbfced04536f18fd91",
+      "category_id": "01",
       "details" : {
-        "category_id": "01",
+        "course_id": "635948fbfced04536f18fd91",
         "courseName": "Java",
         "displayPicture" : "https://assets.codegrip.tech/wp-content/uploads/2021/09/28165502/Java_Logo.png",
         "coverPicture" : "https://res.cloudinary.com/practicaldev/image/fetch/s--bJt00D5L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/otsoxtal9uevlyozsnnj.png",
@@ -39,9 +39,9 @@
       }
     },
     {
-      "course_id": "635948fb0ef6f726f3f8c5a0",
+      "category_id": "01",
       "details" : {
-        "category_id": "01",
+        "course_id": "635948fb0ef6f726f3f8c5a0",
         "courseName": "Python",
         "displayPicture": "https://www.sketchappsources.com/resources/source-image/python-logo.png",
         "coverPicture":"https://tekkieuni.co.il/wp-content/uploads/2020/02/python-cover.jpg",
@@ -80,9 +80,9 @@
       }
     },
     {
-      "course_id": "635948fbbea7158e889d518d",
+      "category_id": "01",
       "details" : {
-        "category_id": "01",
+        "course_id": "635948fbbea7158e889d518d",
         "courseName": "JavaScript",
         "displayPicture":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png",
         "coverPicture":"https://miro.medium.com/max/785/1*H-25KB7EbSHjv70HXrdl6w.png",
@@ -126,9 +126,9 @@
       }
     },
     {
-      "course_id": "635948fb13e1a3ba7f701fd1",
+      "category_id": "01",
       "details" : {
-        "category_id": "01",
+        "course_id": "635948fb13e1a3ba7f701fd1",
         "courseName": "C#",
         "displayPicture":"https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png",
         "coverPicture":"https://wallpaper.dog/large/20518290.jpg",
@@ -165,9 +165,9 @@
       }
     },
     {
-      "course_id": "635948fb814e256c53357735",
+      "category_id": "01", 
       "details" : {
-        "category_id": "01",
+        "course_id": "635948fb814e256c53357735",  
         "courseName": "GoLang",
         "displayPicture":"https://www.kindpng.com/picc/m/599-5995612_golang-logo-hd-png-download.png",
         "coverPicture":"https://miro.medium.com/max/1087/1*GywuWbDRnrZMsEV-nXcK3A.png",
@@ -202,9 +202,9 @@
       }
     },
     {
-      "course_id": "635948fb25f7463e8d89c97d",
+      "category_id": "01",
       "details" : {
-        "category_id": "01",
+        "course_id": "635948fb25f7463e8d89c97d",
         "courseName": "Solidity",
         "displayPicture":"https://download.logo.wine/logo/Solidity/Solidity-Logo.wine.png",
         "coverPicture":"https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/736589/oracle-contracts-tutorial-pt3-6bc3519ea8f46c34cccea2a43adbe906.png",
