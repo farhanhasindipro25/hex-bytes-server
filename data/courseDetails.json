@@ -1,243 +1,199 @@
 [
     {
-      "category_id": "01",
-      "details" : {
-        "course_id": "635948fbfced04536f18fd91",
-        "courseName": "Java",
-        "displayPicture" : "https://assets.codegrip.tech/wp-content/uploads/2021/09/28165502/Java_Logo.png",
-        "coverPicture" : "https://res.cloudinary.com/practicaldev/image/fetch/s--bJt00D5L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/otsoxtal9uevlyozsnnj.png",
-        "price": "1000 BDT",
-        "duration": "3 Months",
-        "courseInstructor": "Cain Carney",
-        "intro": "People interested to learn Java can take this course.",
-        "description": "This course is designed in such a way so that both beginners and intermediately skilled students can make the best out of this course. After this course, you will have sound knowledge and practice of the Java programming language from basic to advanced concepts.",
-        "preRequisites": [
-            "Fundamentals of programming",
-            "Programming Logic building",
-            "Digital Logic"
+      "course_id": "635948fbfced04536f18fd91",
+      "courseName": "Machine Learning Fundamentals",
+      "displayPicture" : "https://thumbs.dreamstime.com/b/machine-learning-logo-neurons-connections-synapses-emblem-neural-network-isolated-human-brain-icon-artificial-intelligence-185085199.jpg",
+      "coverPicture" : "https://www.smartdatacollective.com/wp-content/uploads/2018/11/Machine-learning-scaled.jpg",
+      "price": "1000 BDT",
+      "duration": "3 Months",
+      "courseInstructor": "Cain Carney",
+      "description": "This course is designed in such a way so that both beginners and intermediately skilled students can make the best out of this course. After this course, you will have sound knowledge and practice of the Machine Learning basic to advanced concepts.",
+      "preRequisites": [
+            "Python Fundamentals",
+            "Numpy, Pandas"
+      ],
+      "courseContent": [
+            "Data pre-processing",
+            "Scaling",
+            "Datasets",
+            "Dataframes",
+            "Linear Regression",
+            "Logistic Regression",
+            "Decision Tree",
+            "SVM Algorithm",
+            "Naive Bayes Algorithm",
+            "KNN Algorithm",
+            "K-means Algorithm",
+            "Random Forest Algorithm",
+            "Dimensionalit Reduction Algorithms",
+            "Gradients",
+            "Matplotlib"
         ],
-        "courseContent": [
-            "Variables",
-            "Data Types",
-            "Logical Operators",
-            "Logical Operators",
-            "Conditionals",
-            "Loops",
-            "Classes",
-            "Objects",
-            "Methods",
-            "Arrays",
-            "String Manipulation",
-            "Exception Handling",
-            "Multithreading",
-            "Generics"
-        ],
-        "projects": [
-            "Airline Reservation System",
-            "Electricity Billing System"
-        ]
-      }
+      "projects": [
+            "Iris dataset classification",
+            "Mushroom Cultivation classification"
+      ]
     },
     {
-      "category_id": "01",
-      "details" : {
-        "course_id": "635948fb0ef6f726f3f8c5a0",
-        "courseName": "Python",
-        "displayPicture": "https://www.sketchappsources.com/resources/source-image/python-logo.png",
-        "coverPicture":"https://tekkieuni.co.il/wp-content/uploads/2020/02/python-cover.jpg",
-        "price": "1000 BDT",
-        "duration": "3 Months",
-        "courseInstructor": "Hyde Shannon",
-        "intro": "People interested to learn Python can take this course.",
-        "description": "This course is designed in such a way so that both beginners and intermediately skilled students can make the best out of this course. After this course, you will have sound knowledge and practice of the Python programming language from basic to advanced concepts.",
-        "preRequisites": [
-            "Fundamentals of programming",
-            "Programming Logic building",
-            "Digital Logic"
+      "course_id": "635a13f09e52d7850ab7d176",
+      "courseName": "Natural Language Processing",
+      "displayPicture" : "https://thumbs.dreamstime.com/b/nlp-letter-technology-logo-design-white-background-creative-initials-concept-253007998.jpg",
+      "coverPicture" : "https://img.freepik.com/premium-photo/ai-brain-neural-network-super-computer-artificial-intelligent-deep-learning-machine-learning-nlp-natural-language-processing-cognitive-computer-technology-concept-3d-render_505353-345.jpg?w=2000",
+      "price": "1000 BDT",
+      "duration": "3 Months",
+      "courseInstructor": "Ashley Washington",
+      "description": "This course is designed in such a way so that both beginners and intermediately skilled students can make the best out of this course. After this course, you will have sound knowledge and practice of Natural Language Processing basic to advanced concepts.",
+      "preRequisites": [
+            "Python Fundamentals",
+            "Numpy, Pandas"
+      ],
+      "courseContent": [
+            "Tokenization",
+            "Normalization",
+            "Stemming",
+            "Lemmatization",
+            "Corpus",
+            "Stop Words",
+            "Parts of Speech tagging",
+            "Statistical Language Modelling",
+            "Bag of words",
+            "n-grams",
+            "Regular Expressions",
+            "Zipf's Law",
+            "Similarity Measures",
+            "Syntactic Analysis",
+            "Semantic Analysis",
+            "Sentiment Analysis",
+            "Information Retrieval"
         ],
-        "courseContent": [
-            "Variables",
-            "Data Types",
-            "Logical Operators",
-            "Conditionals",
-            "Loops",
-            "Classes",
-            "Objects",
-            "Methods",
-            "Lists",
-            "Strings",
-            "Exception Handling",
-            "Mathematical Libraries and Functions",
-            "Tuples",
-            "Dictionaries",
-            "Functions"
-        ],
-        "projects": [
-            "Dice Rolling Simulator",
-            "Hangman Game",
-            "Desktop Notifier App"
-        ]
-      }
+      "projects": [
+            "Making a chatbot and virtual assistant.",
+            "Machine Translation",
+            "Making text auto-correction"
+      ]
     },
     {
-      "category_id": "01",
-      "details" : {
-        "course_id": "635948fbbea7158e889d518d",
-        "courseName": "JavaScript",
-        "displayPicture":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png",
-        "coverPicture":"https://miro.medium.com/max/785/1*H-25KB7EbSHjv70HXrdl6w.png",
-        "price": "3000 BDT",
-        "duration": "3 Months",
-        "courseInstructor": "Amy Ball",
-        "intro": "People interested to learn JavaScript can take this course.",
-        "description": "This course is designed in such a way so that both beginners and intermediately skilled students can make the best out of this course. After this course, you will have sound knowledge and practice of the JavaScript programming language from basic to advanced concepts.",
-        "preRequisites": [
-            "Fundamentals of programming",
-            "Programming Logic building",
-            "Digital Logic"
+      "course_id": "635a13f00a22ff1c5c746542",
+      "courseName": "Data Science",
+      "displayPicture" : "https://previews.123rf.com/images/essaphear/essaphear1709/essaphear170900001/86808937-data-science-logo-icon-design-vector.jpg",
+      "coverPicture" : "https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display__940_x_310/public/field/focus_image/di_yi_pian_gao_zi_tou_tu_banner-940.jpg?itok=N1XKroBs",
+      "price": "5000 BDT",
+      "duration": "6 Months",
+      "courseInstructor": "Hughes Bruce",
+      "description": "This course is designed in such a way so that both beginners and intermediately skilled students can make the best out of this course. After this course, you will have sound knowledge and practice of Data Science basic to advanced concepts.",
+      "preRequisites": [
+            "Python Fundamentals",
+            "Numpy, Pandas"
+      ],
+      "courseContent": [
+            "Machine Learning",
+            "Activation Functions",
+            "Back Propagation",
+            "Convolutional Neural Networks",
+            "Deep Learning",
+            "Evolutionary Algorithm",
+            "F-Score",
+            "Generative Adverserial Networks",
+            "Hyperparameter Optimization",
+            "Information Gain",
+            "Jaccard Similarity",
+            "Statistical Analysis",
+            "Probability"
         ],
-        "courseContent": [
-            "Variables",
-            "Data Types",
-            "Logical Operators",
-            "Conditionals",
-            "Types of loops",
-            "Loops",
-            "Classes",
-            "Objects",
-            "Methods",
-            "Lists",
-            "Strings",
-            "Exception Handling",
-            "Mathematical Libraries and Functions",
-            "Arrow Functions",
-            "Callback Functions",
-            "Promises",
-            "Async and Await",
-            "Document Object Model",
-            "ES6 core concepts"
-        ],
-        "projects": [
-            "Task List App",
-            "Book List App",
-            "Pin Matcher",
-            "Simple Banking System"
-        ]
-      }
+      "projects": [
+            "Churn Prediction",
+            "Loan Default Prediction Project using Gradient Booster ",
+            "Price Recommendation for Online Sellers"
+      ]
     },
     {
-      "category_id": "01",
-      "details" : {
-        "course_id": "635948fb13e1a3ba7f701fd1",
-        "courseName": "C#",
-        "displayPicture":"https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png",
-        "coverPicture":"https://wallpaper.dog/large/20518290.jpg",
-        "price": "2000 BDT",
-        "duration": "3 Months",
-        "courseInstructor": "Dorris Kelley",
-        "intro": "People interested to learn C# can take this course.",
-        "description": "This course is designed in such a way so that both beginners and intermediately skilled students can make the best out of this course. After this course, you will have sound knowledge and practice of the C# programming language from basic to advanced concepts.",
-        "preRequisites": [
-            "Fundamentals of programming",
-            "Programming Logic building",
-            "Digital Logic"
+      "course_id": "635a13f0b2ac308bc16f87d8",
+      "courseName": "Deep Learning",
+      "displayPicture" : "https://cdn5.vectorstock.com/i/1000x1000/86/49/neural-network-logo-human-brain-emblem-vector-31608649.jpg",
+      "coverPicture" : "https://media.istockphoto.com/photos/abstract-technology-background-picture-id1297995676?b=1&k=20&m=1297995676&s=170667a&w=0&h=GHvpI9OWJ1tlBtXmjvKQM-G-bN9rosk8jsayr2k8q5w=",
+      "price": "5000 BDT",
+      "duration": "6 Months",
+      "courseInstructor": "Dora Kirby",
+      "description": "This course is designed in such a way so that both beginners and intermediately skilled students can make the best out of this course. After this course, you will have sound knowledge and practice of Deep Learning basic to advanced concepts.",
+      "preRequisites": [
+            "Python Fundamentals",
+            "Numpy, Pandas"
+      ],
+      "courseContent": [
+            "Convolutional Neural Networks (CNNs)",
+            "Long Short Term Memory Networks (LSTMs)",
+            "Recurrent Neural Networks (RNNs)",
+            "Generative Adversarial Networks (GANs)",
+            "Radial Basis Function Networks (RBFNs)",
+            "Multilayer Perceptrons (MLPs)",
+            "Self Organizing Maps (SOMs)",
+            "Deep Belief Networks (DBNs)",
+            "Restricted Boltzmann Machines (RBMs)",
+            "Autoencoders"
         ],
-        "courseContent": [
-            "Variables",
-            "Data Types",
-            "Logical Operators",
-            "Conditionals",
-            "Loops",
-            "Classes",
-            "Objects",
-            "Methods",
-            "Lists",
-            "Strings",
-            "Exception Handling",
-            "Mathematical Libraries and Functions",
-            "Access Modifiers"
-        ],
-        "projects": [
-            "Online Voting Application",
-            "E-Commerce Checkout System",
-            "Ebook Reader"
-        ]
-      }
+      "projects": [
+            "Image Classification with CIFAR-10 dataset.",
+            "Face detection system.",
+            "Music genre classification system."
+      ]
     },
     {
-      "category_id": "01", 
-      "details" : {
-        "course_id": "635948fb814e256c53357735",  
-        "courseName": "GoLang",
-        "displayPicture":"https://www.kindpng.com/picc/m/599-5995612_golang-logo-hd-png-download.png",
-        "coverPicture":"https://miro.medium.com/max/1087/1*GywuWbDRnrZMsEV-nXcK3A.png",
-        "price": "2000 BDT",
-        "duration": "3 Months",
-        "courseInstructor": "Cassandra Colon",
-        "intro": "People interested to learn GoLang can take this course.",
-        "description": "This course is designed in such a way so that both beginners and intermediately skilled students can make the best out of this course. After this course, you will have sound knowledge and practice of the GoLang programming language from basic to advanced concepts.",
-        "preRequisites": [
-            "Fundamentals of programming",
-            "Programming Logic building",
-            "Digital Logic"
+      "course_id": "635a13f0c655438e552e63e1",
+      "courseName": "Computer Vision",
+      "displayPicture" : "https://cdn1.vectorstock.com/i/1000x1000/17/70/machine-vision-visual-recognition-system-vector-25951770.jpg",
+      "coverPicture" : "https://wallpapercave.com/wp/wp7442913.jpg",
+      "price": "5000 BDT",
+      "duration": "6 Months",
+      "courseInstructor": "Harrell Stewart",
+      "description": "This course is designed in such a way so that both beginners and intermediately skilled students can make the best out of this course. After this course, you will have sound knowledge and practice of Computer Vision basic to advanced concepts.",
+      "preRequisites": [
+            "Python Fundamentals",
+            "Numpy, Pandas"
+      ],
+      "courseContent": [
+            "Optical Flow",
+            "Histogram of Oriented Gradients (HOG)",
+            "SIFT (Scale-Invariant Feature Transform)",
+            "BOV: Bag-of-visual-words (BOV)",
+            "Radial Basis Function Networks (RBFNs)",
+            "Region-Based Convolutional Neural Network (RCNN)",
+            "Single Shot Detector (SSD)",
+            "You Only Look Once (YOLO)"
         ],
-        "courseContent": [
-            "Variables",
-            "Data Types",
-            "Logical Operators",
-            "Conditionals",
-            "Loops",
-            "Packages",
-            "Map",
-            "Slice",
-            "Pointers",
-            "Structs",
-            "Interface",
-            "Web"
-        ],
-        "projects": [
-            "CRUD API",
-            "Email Verifier Tool"
-        ]
-      }
+      "projects": [
+            "People Counting Tool.",
+            "Image Forgery Detector.",
+            "Road Lane Detection System."
+      ]
     },
     {
-      "category_id": "01",
-      "details" : {
-        "course_id": "635948fb25f7463e8d89c97d",
-        "courseName": "Solidity",
-        "displayPicture":"https://download.logo.wine/logo/Solidity/Solidity-Logo.wine.png",
-        "coverPicture":"https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/736589/oracle-contracts-tutorial-pt3-6bc3519ea8f46c34cccea2a43adbe906.png",
-        "price": "5000 BDT",
-        "duration": "3 Months",
-        "courseInstructor": "Ashley Washington",
-        "intro": "People interested to learn Solidity can take this course.",
-        "description": "This course is designed in such a way so that both beginners and intermediately skilled students can make the best out of this course. After this course, you will have sound knowledge and practice of the Solidity programming language from basic to advanced concepts.",
-        "preRequisites": [
-            "Fundamentals of programming",
-            "Programming Logic building",
-            "Digital Logic"
+      "course_id": "635a13f01346d8f13e67ffe5",
+      "courseName": "Blockchain Technologies",
+      "displayPicture" : "https://st3.depositphotos.com/1041543/16860/v/450/depositphotos_168600204-stock-illustration-business-block-chain-logo-illustration.jpg",
+      "coverPicture" : "https://wallpaperaccess.com/full/3648367.jpg",
+      "price": "5000 BDT",
+      "duration": "7 Months",
+      "courseInstructor": "Lindsey Williams",
+      "description": "This course is designed in such a way so that both beginners and intermediately skilled students can make the best out of this course. After this course, you will have sound knowledge and practice of Blockchain technologies basic to advanced concepts.",
+      "preRequisites": [
+            "Python Fundamentals",
+            "Numpy, Pandas"
+      ],
+      "courseContent": [
+            "Blockchain Structures and Architectures",
+            "Solidity Programming Language",
+            "Smart Contracts",
+            "Solana",
+            "Ethereum",
+            "Metamask",
+            "Decentralised Applications",
+            "Mining",
+            "Non-Fungible Tokens"
         ],
-        "courseContent": [
-            "Ethereum and Smart Contracts",
-            "Gas",
-            "Remix IDE",
-            "Structure of a smart contract",
-            "Solidity Compilers",
-            "Variables and Types",
-            "Global Variables",
-            "Operators",
-            "Conditionals",
-            "Loops",
-            "Scope and Visibility",
-            "View and Pure Keywords",
-            "Functions and Modifiers",
-            "Ether Transferring Process",
-            "Libraries and Interfaces"
-        ],
-        "projects": [
-            "Real Estate Investment Tokens"
-        ]
-      }
+      "projects": [
+            "Peer To Peer Ridesharing.",
+            "A Fake Product Identification System.",
+            "Blockchain-Based Voting System."
+      ]
     }
 ]

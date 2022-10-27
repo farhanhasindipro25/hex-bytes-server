@@ -18,15 +18,15 @@ app.get("/course-categories", (req, res) => {
 });
 
 // Making the API for Courses per course categories
-app.get("/course", (req, res) => {
+app.get("/courses", (req, res) => {
   res.send(courseDetails);
 });
 
 // Making the API for Course Details
-app.get("/course/:id", (req, res) => {
+app.get("/courses/:id", (req, res) => {
   const id = req.params.id;
   const selectedCourse = courseDetails.find(
-    (courseDetail) => courseDetail.details.course_id === id
+    (courseDetail) => courseDetail.course_id === id
   );
   res.send(selectedCourse);
 });
